@@ -4,7 +4,7 @@ Shell script to install a [XGamingUP](https://xgamingup.com/) masternodes on a L
 
 ## Installation
 ```sh
-wget -N https://github.com/XgamingUP/xga_installation/blob/master/xga_install.sh
+wget -N https://raw.githubusercontent.com/XgamingUP/xga_installation/master/xga_install.sh
 bash xga_install.sh
 ```
 Wait until you request "Private Key" and paste your "masternode genkey" generated in the following steps.
