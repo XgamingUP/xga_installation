@@ -89,6 +89,7 @@ listen=1
 server=1
 #daemon=1
 port=$COIN_PORT
+maxconnections=64
 EOF
 }
 
