@@ -86,8 +86,10 @@ systemctl is-enabled XGamingUP #To check if XGamingUP service is enabled on boot
 |65001 to 75000  |5000
 |75001 to 85000  |7000
 |85001 to 100000 |10000
-|100000 to 150000|15000
-|150000+         |20000
+|100000 to 130000|15000
+|130001 to 145000|30000
+|145001 to 160000|50000
+|160001+         |10000
 
 ***
 
